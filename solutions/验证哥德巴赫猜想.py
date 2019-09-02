@@ -45,3 +45,4 @@ def is_prime(num):
 
 assert goldbach(123456) == (7, 123449)
 assert goldbach(12345678) == (31, 12345647)
+print('运行完毕')

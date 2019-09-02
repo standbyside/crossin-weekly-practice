@@ -19,3 +19,4 @@ assert pingpong(7, 7) == 7
 assert pingpong(8, 8) == 8
 assert pingpong(55, 6) == 3
 assert pingpong(100, 9) == 0
+print('运行完毕')

@@ -39,3 +39,4 @@ assert base_yh(1, 1) == 1
 assert base_yh(3, 2) == 3
 
 generate_yh(10)
+print('运行完毕')

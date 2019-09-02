@@ -28,3 +28,4 @@ def product_2(num):
 assert product_2(1234) == 1312
 assert product_2(12345) == 22412
 assert product_2(123456) == 342002
+print('运行完毕')

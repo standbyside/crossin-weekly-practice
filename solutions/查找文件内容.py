@@ -24,5 +24,5 @@ def search_file_content(input_dir, key_word):
     return txt_list
 
 
-L = search_file_content(r"D:\workspace\my-python", '查找')
+L = search_file_content(r"D:\workspace\my-pro", '查找')
 print(L)

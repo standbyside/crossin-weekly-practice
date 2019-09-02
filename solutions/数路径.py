@@ -15,3 +15,4 @@ def unique_path(m, n):
 assert unique_path(1, 2) == 1
 assert unique_path(3, 3) == 6
 assert unique_path(10, 20) == 6906900
+print('运行完毕')

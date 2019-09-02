@@ -27,3 +27,4 @@ def get_word_cloud(text):
 
 
 get_word_cloud(get_text(r'/Users/zn/Downloads/word-cloud-text.txt'))
+print('运行完毕')

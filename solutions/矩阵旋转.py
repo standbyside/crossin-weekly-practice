@@ -30,3 +30,4 @@ assert ratate(m1) == [[]]
 assert ratate(m2) == [[1]]
 assert ratate(m3) == [[0, 0, 0], [1, 1, 1], [2, 2, 2]]
 assert ratate(m4) == [[13, 9, 5, 1], [14, 10, 6, 2], [15, 11, 7, 3], [16, 12, 8, 4]]
+print('运行完毕')

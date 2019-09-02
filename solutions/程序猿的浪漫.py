@@ -34,3 +34,4 @@ def decrypt():
 
 
 assert decrypt() == '多喝热水'
+print('运行完毕')
